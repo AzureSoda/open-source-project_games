@@ -1,1 +1,1 @@
-https://user-images.githubusercontent.com/49617190/204704205-c79595bc-51a5-46e2-a651-b95a78e950bd.png
+![방울사진1](https://user-images.githubusercontent.com/49617190/204704448-6c2ea206-b5cb-454a-acaa-9dc55741fdbf.png)
