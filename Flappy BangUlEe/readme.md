@@ -4,8 +4,7 @@
 ![KakaoTalk_20221130_130611535](https://user-images.githubusercontent.com/49617190/204705259-c445467c-a907-4c8a-93b7-3f2c0fbfc6e6.gif)
 
 
-# Flappy BangUlEe
-# 플래피 방울이
+# Flappy BangUlEe, 플래피 방울이
 
 유니티를 활용하여 저희 집 고양이 방울이를 테마로 한 게임을 개발하였습니다.
 
