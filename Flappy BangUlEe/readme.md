@@ -154,16 +154,16 @@ It's a game play video
 
 ## Table of Contents
 
-1. [Reason for project planning](#📝Reason-for-project-planning)
-2. [Game description](#📝Game-description)
-3. [Asset Description](#📝Asset-Description)
-4. [Code, Animation Description](#📝Code,-Animation-Description)
-5. [How to play - Screenshot](#📝How-to-play--Screenshot)
-6. [Review, feedback](#📝Review,-feedback)
-7. [Release](#📝Release)
-8. [Feeling, learning, disappointing](#📝Feeling,-learning,-disappointing)
-9. [Reference](#📝Reference)    
-10. [License](#📝License)  
+1. [Reason for project planning]
+2. [Game description]
+3. [Asset Description]
+4. [Code, Animation Description]
+5. [How to play - Screenshot]
+6. [Review, feedback](
+7. [Release]
+8. [Feeling, learning, disappointing]
+9. [Reference]  
+10. [License] 
 
 ---
 
@@ -276,6 +276,6 @@ Follow the MIT License. I've created a license.md file in my repository.
 ### 📝Game Demonstration Video ###
 https://www.youtube.com/shorts/A_zOd4DcTT0
 
-## ## 🖥️Developers
+## 🖥️Developers
 19101191 Kim Kyung-Jun
 
