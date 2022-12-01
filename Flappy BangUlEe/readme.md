@@ -162,8 +162,8 @@ It's a game play video
 6. [Review, feedback](#Review,-feedback)
 7. [Release](#Release)
 8. [Feeling, learning, disappointing](#Feeling,-learning,-disappointing)
-9. [Reference](#Reference)
-10.[License](#License)
+9. [Reference](#Reference)    
+10. [License](#License)  
 
 ---
 
