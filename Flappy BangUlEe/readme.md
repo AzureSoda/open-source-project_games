@@ -199,28 +199,28 @@ https://soundeffect-lab.info/sound/button/
 ## 📝 Code, animation description
 
 
-![image](https://user-images.githubusercontent.com/49617190/204999428-1a855d17-a4b8-4ce7-82f9-acffeac951f4.png)
+![image](https://user-images.githubusercontent.com/49617190/204999428-1a855d17-a4b8-4ce7-82f9-acffeac951f4.png)  
 CurrentScore.cs Code to store and forward the current score.
 
-![image](https://user-images.githubusercontent.com/49617190/205000513-3e0ccb85-4c32-40d7-80ef-cf5920ae310f.png)
+![image](https://user-images.githubusercontent.com/49617190/205000513-3e0ccb85-4c32-40d7-80ef-cf5920ae310f.png)  
 Code to store and deliver the best score among BestScore.cs scores.
 
-![image](https://user-images.githubusercontent.com/49617190/204999637-de41bf50-9c06-49b2-aab8-529e62271ea5.png)
+![image](https://user-images.githubusercontent.com/49617190/204999637-de41bf50-9c06-49b2-aab8-529e62271ea5.png)  
 Code that causes the game Replay.cs to run again. Apply to buttons to restart the game.
 
-![image](https://user-images.githubusercontent.com/49617190/204999888-375232a0-7185-4e7c-b830-ed1671c46531.png)
+![image](https://user-images.githubusercontent.com/49617190/204999888-375232a0-7185-4e7c-b830-ed1671c46531.png)  
 Code that specifies the first screen of the Firststart.cs game.
 
-![image](https://user-images.githubusercontent.com/49617190/205000038-17b776cb-240f-49a8-bce5-ef9ea9917974.png)
+![image](https://user-images.githubusercontent.com/49617190/205000038-17b776cb-240f-49a8-bce5-ef9ea9917974.png)  
 Code for generating generatepipe.cs obstruction pipe. It was created by randomly changing the y value, and it was made to disappear automatically over time through the destroy function over time, and it was made to make a sound when passing through the pipe by adding a sound effect.
 
-![image](https://user-images.githubusercontent.com/49617190/205000836-2897f73d-ed99-4ac8-bc5a-4bf20bd123c1.png)
+![image](https://user-images.githubusercontent.com/49617190/205000836-2897f73d-ed99-4ac8-bc5a-4bf20bd123c1.png)  
 Code to make the character jump.cs jump. I made it jump every time I touched it, and I made it switch to the game over scene if I hit it by adding a crash decision. I made a sound effect every time I jumped.
 
-![image](https://user-images.githubusercontent.com/49617190/205001173-1a08147d-3929-4d47-807c-c43220e4be8b.png)
+![image](https://user-images.githubusercontent.com/49617190/205001173-1a08147d-3929-4d47-807c-c43220e4be8b.png)  
 Code to adjust the speed of the move.cs game. I made it convenient to adjust the speed in the editor by using the public float. As a result of the feedback, there were many opinions that the current speed was appropriate, so we decided on the current speed.
 
-![image](https://user-images.githubusercontent.com/49617190/205001615-7942f7b1-9170-4699-810a-54a4708bd23c.png)
+![image](https://user-images.githubusercontent.com/49617190/205001615-7942f7b1-9170-4699-810a-54a4708bd23c.png)  
 pipemovement.cs Code for pipe, an obstacle, to move to the side, which is the direction of the game, at speed. I made it convenient to adjust the speed in the editor by using the public float. As a result of the feedback, there were many opinions that the current speed was appropriate, so we decided on the current speed.
 
 groundanimation.anim
