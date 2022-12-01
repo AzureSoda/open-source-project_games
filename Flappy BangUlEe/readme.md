@@ -117,7 +117,7 @@ groundanimation.anim
 ---
 
 ## 📝릴리즈
-v1.0.0: 게임의 첫번쨰 버전입니다.
+v1.0.0: 게임의 첫번째 버전입니다.
 
 v1.1: 게임의 현재 최신 업데이트 버전 입니다. 피드백을 반영하여 어색했던 땅의 애니메이션 부분과 첫 화면을 수정하였습니다. 이 릴리즈를 설치해 게임을 플레이하시면 됩니다.
 
@@ -144,7 +144,136 @@ https://www.youtube.com/shorts/A_zOd4DcTT0
 
 
 <hr>
-영어로
+# Flappy Bang UlEe
+Using Unity, I developed a game that cat,BangUlEe jump under the theme of our cat BangUlEe.
+
+https://user-images.githubusercontent.com/49617190/204946622-e49dc28b-c3db-43c2-8144-e84237251176.mp4  
+It's a game play video
+
+## Table of Contents
+
+1. [Reason for project planning] (#Project-Planning-Reason)
+2. [Game explanation] (#Game explanation)
+3. [Asset Description] (#Asset - Description)
+4. [Code, Animation Description] (#Code, Animation-Description)
+5. [How to play - Screenshot] (#How to play - Screenshot)
+6. [Review, feedback] (#Review, feedback)
+7. [Release] (#Release)
+8. [Feeling, learning, disappointing] (#Feeling, learning, disappointing)
+9. [Reference] (#Reference)
+10. [License] (#License)
+
+---
+
+## 📝 Reasons for project planning
+<img src="https://user-images.githubusercontent.com/49617190/204704448-6c2ea206-b5cb-454a-acaa-9dc55741fdbf.png" width="500" height="700">
+
+This is my cat, Bubble.
+<img src="https://user-images.githubusercontent.com/49617190/204705259-c445467c-a907-4c8a-93b7-3f2c0fbfc6e6.gif" width="800" height="800">
+I was interested in developing a game with UNI.T. Usually, I was thinking about what topic to make a game, and I thought it would be fun to make a game with this topic after seeing a rattles jump at home.
+---
+## 📝 Game description
+The bell touches the character and passes through the red pipe to score as many points as possible.
+Touch the screen with a simple game and the cat character jumps in the air. However, the character's drop speed is fast, so if you don't touch it at the right time, the character falls directly to the floor or hits the pipe, so it's a game that aims for high scores by passing through the pipes while adjusting the height.
+*Refer to the Flappy Bird game.
+---
+
+## 📝 Asset Description
+
+### The logo
+<img src="https://user-images.githubusercontent.com/49617190/204998282-a576f0e2-73f7-4da1-8cae-11bb1149a9d0.png" width="700" height="500">
+I made the logo of the game myself through a dot-taking program
+
+### Image
+<img src="https://user-images.githubusercontent.com/49617190/204997935-1ba30814-7872-42be-9b33-9c0af704b6de.png" width="700" height="500">
+I made my own character through a dot-taking program
+
+### Sound Asset Source
+I downloaded and used it at a place where it was available for free.
+https://soundeffect-lab.info/sound/button/
+
+---
+
+## 📝 Code, animation description
 
 
+![image](https://user-images.githubusercontent.com/49617190/204999428-1a855d17-a4b8-4ce7-82f9-acffeac951f4.png)
+CurrentScore.cs Code to store and forward the current score.
+
+![image](https://user-images.githubusercontent.com/49617190/205000513-3e0ccb85-4c32-40d7-80ef-cf5920ae310f.png)
+Code to store and deliver the best score among BestScore.cs scores.
+
+![image](https://user-images.githubusercontent.com/49617190/204999637-de41bf50-9c06-49b2-aab8-529e62271ea5.png)
+Code that causes the game Replay.cs to run again. Apply to buttons to restart the game.
+
+![image](https://user-images.githubusercontent.com/49617190/204999888-375232a0-7185-4e7c-b830-ed1671c46531.png)
+Code that specifies the first screen of the Firststart.cs game.
+
+![image](https://user-images.githubusercontent.com/49617190/205000038-17b776cb-240f-49a8-bce5-ef9ea9917974.png)
+Code for generating generatepipe.cs obstruction pipe. It was created by randomly changing the y value, and it was made to disappear automatically over time through the destroy function over time, and it was made to make a sound when passing through the pipe by adding a sound effect.
+
+![image](https://user-images.githubusercontent.com/49617190/205000836-2897f73d-ed99-4ac8-bc5a-4bf20bd123c1.png)
+Code to make the character jump.cs jump. I made it jump every time I touched it, and I made it switch to the game over scene if I hit it by adding a crash decision. I made a sound effect every time I jumped.
+
+![image](https://user-images.githubusercontent.com/49617190/205001173-1a08147d-3929-4d47-807c-c43220e4be8b.png)
+Code to adjust the speed of the move.cs game. I made it convenient to adjust the speed in the editor by using the public float. As a result of the feedback, there were many opinions that the current speed was appropriate, so we decided on the current speed.
+
+![image](https://user-images.githubusercontent.com/49617190/205001615-7942f7b1-9170-4699-810a-54a4708bd23c.png)
+pipemovement.cs Code for pipe, an obstacle, to move to the side, which is the direction of the game, at speed. I made it convenient to adjust the speed in the editor by using the public float. As a result of the feedback, there were many opinions that the current speed was appropriate, so we decided on the current speed.
+
+groundanimation.anim
+It has an effect on the ground asset, making the game look more mobile.
+
+---
+
+## 📝How to play - Screenshot
+Download the latest version from the release of this repository, insert the APK file into your Android phone, and install it to run.
+
+![KakaoTalk_20221201_173233861](https://user-images.githubusercontent.com/49617190/205004477-d8883203-9a02-4730-a15b-10a776e015f7.png)
+This is the window that comes out when loading the game, and I made it so that the logo of the game comes out using Unity's.
+
+![KakaoTalk_20221201_173233861_01](https://user-images.githubusercontent.com/49617190/205004556-9ed10770-dc0d-4ef6-984a-259d97de6075.png)
+This is the first screen of the game. The logo and characters of the game are enlarged to make it look good, and you can press the middle button to proceed with the game.
+
+![KakaoTalk_20221201_173233861_03](https://user-images.githubusercontent.com/49617190/205004695-a8274b21-2c51-44b3-961c-72cfecddb68e.png)
+This is the game play screen On the far right side of the screen, the score of the game is made, and when you touch the cat character, it jumps up. Avoid randomly generated pipes and proceed forward.
+
+![KakaoTalk_20221201_173233861_02](https://user-images.githubusercontent.com/49617190/205004844-4f24a430-dff8-472e-b54c-d764e74fb595.png)
+This is the page that comes out when the game is over. The best score displays the highest score during the game, and the score below records the score of the game you just played. The score of the game you just played will change to the best score when you renew the highest score.
+
+
+## 📝Review, feedback
+| Review, Feedback | Stars |
+|-----------|------------|
+| It's hard to play. It's fun | 5/5 |
+| The design is unfortunate. Design to Designer | 4/5 |
+| The ground animation doesn't fit, the image comes out small on the first screen. | 4/5 |
+| The difficulty level is difficult. I think it would be good to lower it a little. | 4/5 |
+
+---
+
+## 📝 Release
+v1.0.0: This is the first version of the game.
+
+v1.1: Current latest update for the game. The animation part of the land that was awkward and the first screen was modified by reflecting the feedback. You can install this release to play the game.
+
+---
+
+
+## 📝 Feeling, learning, disappointing
+I liked that I could make my own games, and as the professor said during the lecture, I remembered that I could proceed with the project I wanted to do and proudly upload it on my GitHub. I was able to think about why I went to the computer engineering department again while making a game, and as I did my favorite project, I was able to take more initiative than other projects.
+
+## 📝 References
+https://www.youtube.com/watch?v=EqoU1PodQQ4&t=6591s
+https://www.youtube.com/watch?v=RgTZRT-LHcw&t=2s
+
+
+## 📝 License
+Follow the MIT License. I've created a license.md file in my repository.
+
+### 📝Game Demonstration Video ###
+https://www.youtube.com/shorts/A_zOd4DcTT0
+
+## ## 🖥️Developers
+19101191 Kim Kyung-Jun
 
