@@ -29,8 +29,7 @@
 <img src="https://user-images.githubusercontent.com/49617190/204704448-6c2ea206-b5cb-454a-acaa-9dc55741fdbf.png"  width="500" height="700">
 저희집 고양이 방울이 입니다
 ### 평소에 유니티로 게임 개발하는 것에 관심이 많았었는 데 어떤 주제로 게임을 만들지 고민하다가 집에서 방울이가 점프하는 것을 보고 이를 주제로 게임을 만들면 재미있겠다는 생각이 들어서 이러한 프로젝트를 기획하게 되었습니다.
-![KakaoTalk_20221130_130611535](https://user-images.githubusercontent.com/49617190/204705259-c445467c-a907-4c8a-93b7-3f2c0fbfc6e6.gif)
-
+<img src="https://user-images.githubusercontent.com/49617190/204705259-c445467c-a907-4c8a-93b7-3f2c0fbfc6e6.gif"  width="500" height="700">
 ---
 ## [게임설명]
 방울이 캐릭터를 터치해서 빨간색 파이프를 통과해서 점수를 얻어 최대한 많은 점수를 획득하는 게임입니다.
@@ -44,9 +43,7 @@
 
 ### 이미지
 
-### 사운드 어떠한 상황일때 사용
-
-사운드 에셋 출처
+### 사운드 에셋 출처
 무료로 사용가능한 곳에서 다운 받아 사용했습니다.
 https://soundeffect-lab.info/sound/button/
 
@@ -68,6 +65,21 @@ https://soundeffect-lab.info/sound/button/
 
 
 ## 릴리즈
+v1.0.0: 게임의 첫번쨰 버전입니다.
+
+v1.1: 게임의 현재 최신 업데이트 버전 입니다. 피드백을 반영하여 어색했던 땅의 애니메이션 부분과 첫 화면을 수정하였습니다. 이 릴리즈를 설치해 게임을 플레이하시면 됩니다.
+
+---
+
+
+## 느낀점, 배운점, 아쉬운점
+
+
+
+---
+## 참고한곳
+무료 쉬운 게임 개발 강의 - 3시간만에 개발, 출시, 수익화까지 완성 - https://www.youtube.com/watch?v=EqoU1PodQQ4&t=6591s  
+[유니티] 플래피버드 30분 만에 만들기 (자막 있음) - https://www.youtube.com/watch?v=RgTZRT-LHcw&t=2s  
 
 
 ## 🖥️Developers
