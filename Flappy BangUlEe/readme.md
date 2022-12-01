@@ -7,6 +7,7 @@
 # Flappy BangUlEe, 플래피 방울이
 
 유니티를 활용하여 저희 집 고양이 방울이를 테마로 방울이가 점프하는 게임을 개발하였습니다.
+https://www.youtube.com/shorts/A_zOd4DcTT0
 
 ---
 
