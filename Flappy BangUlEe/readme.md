@@ -33,19 +33,24 @@ https://user-images.githubusercontent.com/49617190/204946622-e49dc28b-c3db-43c2-
 <img src="https://user-images.githubusercontent.com/49617190/204704448-6c2ea206-b5cb-454a-acaa-9dc55741fdbf.png"  width="500" height="700">
 
 저희집 고양이 방울이 입니다.
-<img src="https://user-images.githubusercontent.com/49617190/204705259-c445467c-a907-4c8a-93b7-3f2c0fbfc6e6.gif"  width="800" height="800">  
+<img src="https://user-images.githubusercontent.com/49617190/204705259-c445467c-a907-4c8a-93b7-3f2c0fbfc6e6.gif"  width="800" height="800"> 
 평소에 유니티로 게임 개발하는 것에 관심이 많았었는 데 어떤 주제로 게임을 만들지 고민하다가 집에서 방울이가 점프하는 것을 보고 이를 주제로 게임을 만들면 재미있겠다는 생각이 들어서 이러한 프로젝트를 기획하게 되었습니다. 
 ---
 ## 게임설명
-방울이 캐릭터를 터치해서 빨간색 파이프를 통과해서 점수를 얻어 최대한 많은 점수를 획득하는 게임입니다.
-*플래피 버드 게임을 참고하였습니다.
+방울이 캐릭터를 터치해서 빨간색 파이프를 통과해서 점수를 얻어 최대한 많은 점수를 획득하는 게임입니다.  
+간단한 조작의 게임으로 화면을 터치하면 고양이 캐릭터가 공중에서 점프합니다. 그러나 캐릭터의 낙하속도가 빠르므로 타이밍을 맞추어 터치하지 않으면 캐릭터가 곧장 바닥으로 떨어지거나 파이프에 부딪히기 때문에 높이를 조정해 가면서 파이프사이를 통과해서 고득점을 노리는 게임입니다.
+*플래피 버드 게임을 참고하였습니다.  
 ---
 
 ## 📝에셋설명
 
 ### 로고
+<img src="https://user-images.githubusercontent.com/49617190/204998282-a576f0e2-73f7-4da1-8cae-11bb1149a9d0.png"  width="700" height="500">
+도트 찍는 프로그램을 통해 게임의 로고를 자체 제작하였습니다
 
 ### 이미지
+<img src="https://user-images.githubusercontent.com/49617190/204997935-1ba30814-7872-42be-9b33-9c0af704b6de.png"  width="700" height="500">
+도트 찍는 프로그램을 통해 캐릭터를 자체 제작하였습니다
 
 ### 사운드 에셋 출처
 무료로 사용가능한 곳에서 다운 받아 사용했습니다.
