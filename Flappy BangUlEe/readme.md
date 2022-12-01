@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/49617190/204946622-e49dc28b-c3db-43c2-
 <img src="https://user-images.githubusercontent.com/49617190/204704448-6c2ea206-b5cb-454a-acaa-9dc55741fdbf.png"  width="500" height="700">
 
 저희집 고양이 방울이 입니다.
-<img src="https://user-images.githubusercontent.com/49617190/204705259-c445467c-a907-4c8a-93b7-3f2c0fbfc6e6.gif"  width="800" height="800">
+<img src="https://user-images.githubusercontent.com/49617190/204705259-c445467c-a907-4c8a-93b7-3f2c0fbfc6e6.gif"  width="800" height="800">  
 평소에 유니티로 게임 개발하는 것에 관심이 많았었는 데 어떤 주제로 게임을 만들지 고민하다가 집에서 방울이가 점프하는 것을 보고 이를 주제로 게임을 만들면 재미있겠다는 생각이 들어서 이러한 프로젝트를 기획하게 되었습니다. 
 ---
 ## [게임설명]
