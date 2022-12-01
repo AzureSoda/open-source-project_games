@@ -10,6 +10,7 @@
 
 https://user-images.githubusercontent.com/49617190/204946622-e49dc28b-c3db-43c2-8144-e84237251176.mp4
 
+게임플레이 영상입니다
 
 ---
 
