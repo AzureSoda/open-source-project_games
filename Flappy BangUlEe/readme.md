@@ -144,7 +144,9 @@ https://www.youtube.com/shorts/A_zOd4DcTT0
 
 
 <hr>
-# Flappy Bang UlEe
+## This is a manual for English speakers
+
+## Flappy Bang UlEe
 Using Unity, I developed a game that cat,BangUlEe jump under the theme of our cat BangUlEe.
 
 https://user-images.githubusercontent.com/49617190/204946622-e49dc28b-c3db-43c2-8144-e84237251176.mp4  
@@ -152,25 +154,25 @@ It's a game play video
 
 ## Table of Contents
 
-1. [Reason for project planning] (#Project-Planning-Reason)
-2. [Game explanation] (#Game explanation)
-3. [Asset Description] (#Asset - Description)
-4. [Code, Animation Description] (#Code, Animation-Description)
-5. [How to play - Screenshot] (#How to play - Screenshot)
-6. [Review, feedback] (#Review, feedback)
-7. [Release] (#Release)
-8. [Feeling, learning, disappointing] (#Feeling, learning, disappointing)
-9. [Reference] (#Reference)
-10. [License] (#License)
+1. [Reason for project planning](#Reason-for-project-planning)
+2. [Game description](#Game-description)
+3. [Asset Description](#Asset-Description)
+4. [Code, Animation Description](#Code,-Animation-Description)
+5. [How to play - Screenshot](#How-to-play--Screenshot)
+6. [Review, feedback](#Review,-feedback)
+7. [Release](#Release)
+8. [Feeling, learning, disappointing](#Feeling,-learning,-disappointing)
+9. [Reference](#Reference)
+10.[License](#License)
 
 ---
 
 ## 📝 Reasons for project planning
 <img src="https://user-images.githubusercontent.com/49617190/204704448-6c2ea206-b5cb-454a-acaa-9dc55741fdbf.png" width="500" height="700">
 
-This is my cat, Bubble.
+This is my cat, BangUlEe.
 <img src="https://user-images.githubusercontent.com/49617190/204705259-c445467c-a907-4c8a-93b7-3f2c0fbfc6e6.gif" width="800" height="800">
-I was interested in developing a game with UNI.T. Usually, I was thinking about what topic to make a game, and I thought it would be fun to make a game with this topic after seeing a rattles jump at home.
+I was interested in developing a game with UNITY. Usually, I was thinking about what topic to make a game, and I thought it would be fun to make a game with this topic after seeing BangUlEe jump at home.
 ---
 ## 📝 Game description
 The bell touches the character and passes through the red pipe to score as many points as possible.
