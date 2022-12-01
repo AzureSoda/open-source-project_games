@@ -159,7 +159,7 @@ It's a game play video
 3. [Asset Description]
 4. [Code, Animation Description]
 5. [How to play - Screenshot]
-6. [Review, feedback](
+6. [Review, feedback]
 7. [Release]
 8. [Feeling, learning, disappointing]
 9. [Reference]  
