@@ -30,26 +30,32 @@ https://user-images.githubusercontent.com/49617190/204946622-e49dc28b-c3db-43c2-
 ---
 
 ## 📝프로젝트 기획 이유
-<img src="https://user-images.githubusercontent.com/49617190/204704448-6c2ea206-b5cb-454a-acaa-9dc55741fdbf.png"  width="500" height="700">
+<img src="https://user-images.githubusercontent.com/49617190/204704448-6c2ea206-b5cb-454a-acaa-9dc55741fdbf.png"  width="500" height="700">  
 
 저희집 고양이 방울이 입니다.
-<img src="https://user-images.githubusercontent.com/49617190/204705259-c445467c-a907-4c8a-93b7-3f2c0fbfc6e6.gif"  width="800" height="800">      
+
+<img src="https://user-images.githubusercontent.com/49617190/204705259-c445467c-a907-4c8a-93b7-3f2c0fbfc6e6.gif"  width="500" height="500">   
+
+
 평소에 유니티로 게임 개발하는 것에 관심이 많았었는 데 어떤 주제로 게임을 만들지 고민하다가 집에서 방울이가 점프하는 것을 보고 이를 주제로 게임을 만들면 재미있겠다는 생각이 들어서 이러한 프로젝트를 기획하게 되었습니다. 
+
 ---
 ## 📝게임설명
+
 방울이 캐릭터를 터치해서 빨간색 파이프를 통과해서 점수를 얻어 최대한 많은 점수를 획득하는 게임입니다.  
 간단한 조작의 게임으로 화면을 터치하면 고양이 캐릭터가 공중에서 점프합니다. 그러나 캐릭터의 낙하속도가 빠르므로 타이밍을 맞추어 터치하지 않으면 캐릭터가 곧장 바닥으로 떨어지거나 파이프에 부딪히기 때문에 높이를 조정해 가면서 파이프사이를 통과해서 고득점을 노리는 게임입니다.
 *플래피 버드 게임을 참고하였습니다.  
+
 ---
 
 ## 📝에셋설명
 
 ### 로고
-<img src="https://user-images.githubusercontent.com/49617190/204998282-a576f0e2-73f7-4da1-8cae-11bb1149a9d0.png"  width="700" height="500">
+<img src="https://user-images.githubusercontent.com/49617190/204998282-a576f0e2-73f7-4da1-8cae-11bb1149a9d0.png"  width="400" height="400">
 도트 찍는 프로그램을 통해 게임의 로고를 자체 제작하였습니다
 
 ### 이미지
-<img src="https://user-images.githubusercontent.com/49617190/204997935-1ba30814-7872-42be-9b33-9c0af704b6de.png"  width="700" height="500">
+<img src="https://user-images.githubusercontent.com/49617190/204997935-1ba30814-7872-42be-9b33-9c0af704b6de.png"  width="400" height="400">
 도트 찍는 프로그램을 통해 캐릭터를 자체 제작하였습니다
 
 ### 사운드 에셋 출처
@@ -92,17 +98,16 @@ groundanimation.anim
 
 ## 📝플레이하는법- 스크린샷
 이 레포지토리의 릴리즈에서 최신 버전을 다운로드해서 안드로이드폰에 APK파일을 넣어준 뒤 설치를 하면 실행이 됩니다.
-
-![KakaoTalk_20221201_173233861](https://user-images.githubusercontent.com/49617190/205004477-d8883203-9a02-4730-a15b-10a776e015f7.png)  
+<img src="https://user-images.githubusercontent.com/49617190/205004477-d8883203-9a02-4730-a15b-10a776e015f7.png"  width="500" height="700">   
 게임 로딩할때 나오는 창입니다, 유니티의 기능을 활용하여 게임의 로고가 나오도록 만들었습니다.  
 
-![KakaoTalk_20221201_173233861_01](https://user-images.githubusercontent.com/49617190/205004556-9ed10770-dc0d-4ef6-984a-259d97de6075.png)  
+<img src="https://user-images.githubusercontent.com/49617190/205004556-9ed10770-dc0d-4ef6-984a-259d97de6075.png"  width="500" height="700">   
 게임의 첫화면 입니다. 게임의 로고와 캐릭터를 크게 키워서 잘 보이도록 만들었고 가운데 버튼을 눌러서 게임을 진행할 수 있습니다.
 
-![KakaoTalk_20221201_173233861_03](https://user-images.githubusercontent.com/49617190/205004695-a8274b21-2c51-44b3-961c-72cfecddb68e.png)  
+<img src="https://user-images.githubusercontent.com/49617190/205004695-a8274b21-2c51-44b3-961c-72cfecddb68e.png"  width="500" height="700">  
 게임 플레이 화면입니다 화면 제일 오른쪽에는 게임의 스코어가 나오도록 만들었고 고양이 캐릭터를 터치하면 위로 점프합니다. 랜덤 생성되는 파이프를 피해서 앞으로 진행하면 됩니다.
 
-![KakaoTalk_20221201_173233861_02](https://user-images.githubusercontent.com/49617190/205004844-4f24a430-dff8-472e-b54c-d764e74fb595.png)  
+<img src="https://user-images.githubusercontent.com/49617190/205004844-4f24a430-dff8-472e-b54c-d764e74fb595.png"  width="500" height="700">  
 게임 오버시 나오는 페이지입니다. 베스트 스코어는 게임을 진행하는 동안 최고점수를 표시하고 아래 점수는 방금 플레이한 판의 점수를 기록합니다. 방금 플레이한 판의 점수가 최고점수를 갱신할시에 베스트 스코어로 바뀝니다.
 
 
@@ -232,16 +237,17 @@ It has an effect on the ground asset, making the game look more mobile.
 ## 📝How to play - Screenshot
 Download the latest version from the release of this repository, insert the APK file into your Android phone, and install it to run.
 
-![KakaoTalk_20221201_173233861](https://user-images.githubusercontent.com/49617190/205004477-d8883203-9a02-4730-a15b-10a776e015f7.png)
+<img src="https://user-images.githubusercontent.com/49617190/205004477-d8883203-9a02-4730-a15b-10a776e015f7.png"  width="500" height="700">   
 This is the window that comes out when loading the game, and I made it so that the logo of the game comes out using Unity's.
 
-![KakaoTalk_20221201_173233861_01](https://user-images.githubusercontent.com/49617190/205004556-9ed10770-dc0d-4ef6-984a-259d97de6075.png)
+
+<img src="https://user-images.githubusercontent.com/49617190/205004556-9ed10770-dc0d-4ef6-984a-259d97de6075.png"  width="500" height="700">   
 This is the first screen of the game. The logo and characters of the game are enlarged to make it look good, and you can press the middle button to proceed with the game.
 
-![KakaoTalk_20221201_173233861_03](https://user-images.githubusercontent.com/49617190/205004695-a8274b21-2c51-44b3-961c-72cfecddb68e.png)
+<img src="https://user-images.githubusercontent.com/49617190/205004695-a8274b21-2c51-44b3-961c-72cfecddb68e.png"  width="500" height="700"> 
 This is the game play screen On the far right side of the screen, the score of the game is made, and when you touch the cat character, it jumps up. Avoid randomly generated pipes and proceed forward.
 
-![KakaoTalk_20221201_173233861_02](https://user-images.githubusercontent.com/49617190/205004844-4f24a430-dff8-472e-b54c-d764e74fb595.png)
+<img src="https://user-images.githubusercontent.com/49617190/205004844-4f24a430-dff8-472e-b54c-d764e74fb595.png"  width="500" height="700">  
 This is the page that comes out when the game is over. The best score displays the highest score during the game, and the score below records the score of the game you just played. The score of the game you just played will change to the best score when you renew the highest score.
 
 
