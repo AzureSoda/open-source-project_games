@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/49617190/204946622-e49dc28b-c3db-43c2-
 
 1. [프로젝트 기획 이유](#프로젝트-기획-이유)
 2. [게임설명](#게임설명)
-3. [에셋 설명](#에셋-설명)
+3. [에셋 설명](#에셋설명)
 4. [코드,애니메이션 설명](#코드,애니메이션-설명)
 5. [플레이하는법- 스크린샷](#플레이하는법--스크린샷)
 6. [리뷰,피드백](#리뷰,피드백)
@@ -64,7 +64,7 @@ https://soundeffect-lab.info/sound/button/
 
 ---
 
-## 📝코드,애니메이션 설명
+## 📝코드,애니메이션 설명 
 
 
 ![image](https://user-images.githubusercontent.com/49617190/204999428-1a855d17-a4b8-4ce7-82f9-acffeac951f4.png)    
